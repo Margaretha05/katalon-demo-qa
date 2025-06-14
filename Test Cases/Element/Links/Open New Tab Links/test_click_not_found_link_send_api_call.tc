@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>API Call Links</name>
+   <name>test_click_not_found_link_send_api_call</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>836bf033-e7dc-4fb2-823e-464efab5fa8c</testCaseGuid>
+   <testCaseGuid>5e5c41b2-6b0e-46e1-aad8-8060224f7a44</testCaseGuid>
 </TestCaseEntity>

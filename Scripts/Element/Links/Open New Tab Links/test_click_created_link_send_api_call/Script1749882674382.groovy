@@ -21,5 +21,9 @@ WebUI.openBrowser('https://demoqa.com/links')
 
 WebUI.verifyElementText(findTestObject('General-Object/txt-h1-judul'), 'Links')
 
-WebUI.click(findTestObject('Element Repository/Links Object/open_new_tab/link_home'))
+WebUI.scrollToElement(findTestObject('Element Repository/Links Object/send_api_call/link_created'), 0)
+
+WebUI.click(findTestObject('Element Repository/Links Object/send_api_call/link_created'))
+
+WebUI.verifyElementText(findTestObject('Element Repository/Links Object/txt_link_response'), 'Link has responded with staus 201 and status text Created')
 

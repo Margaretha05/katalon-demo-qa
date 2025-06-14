@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_click_forbidden_link_send_api_call</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8fae664-3065-435a-8896-49ebc0e9af0a</testCaseGuid>
+</TestCaseEntity>

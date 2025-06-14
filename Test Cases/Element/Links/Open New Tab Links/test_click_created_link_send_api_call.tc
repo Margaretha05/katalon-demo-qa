@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_click_created_link_send_api_call</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80cfe424-89b6-45b2-92fe-627cf94cfbad</testCaseGuid>
+</TestCaseEntity>
