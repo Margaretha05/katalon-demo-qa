@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_choose_radio_button_no</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b599b621-75f4-400d-aec0-00b7f45d8ddb</testCaseGuid>
+</TestCaseEntity>

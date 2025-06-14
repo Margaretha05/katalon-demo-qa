@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>check-output-by-param</name>
+   <tag></tag>
+   <elementGuidId>5d1ecebd-a27d-4a9d-8edc-de7274c601ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;output&quot;]/div/p[@id=&quot;${param}&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;output&quot;]/div/p[@id=&quot;${param}&quot;]</value>
+      <webElementGuid>9f3d2576-3329-4374-96a4-d622ce2417b1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

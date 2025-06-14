@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_fill_text_box</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d132dca1-7f10-4d17-a496-b2bf27dbbd4f</testCaseGuid>
+   <variable>
+      <defaultValue>'name'</defaultValue>
+      <description></description>
+      <id>76b0cb10-f891-4fc2-91c3-4de093492ca5</id>
+      <masked>false</masked>
+      <name>output_param_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'email'</defaultValue>
+      <description></description>
+      <id>6963b13e-ced4-44b2-8e7c-e6e36f8a1828</id>
+      <masked>false</masked>
+      <name>output_param_email</name>
+   </variable>
+   <variable>
+      <defaultValue>'currentAddress'</defaultValue>
+      <description></description>
+      <id>80c3659a-ec92-4fc8-8a7b-a5350ae0593a</id>
+      <masked>false</masked>
+      <name>output_param_currentAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>'permanentAddress'</defaultValue>
+      <description></description>
+      <id>73f956f4-b1e7-4383-a082-acd16653c7b1</id>
+      <masked>false</masked>
+      <name>output_param_permanentAddress</name>
+   </variable>
+</TestCaseEntity>
