@@ -30,26 +30,26 @@ public class TextBoxForm {
 
 	@Keyword
 	def fillForm() {
-		WebUI.setText(findTestObject('Element Repository/Text Box Object/txt-fullname'), name)
+		WebUI.setText(findTestObject('Elements Repository/Text Box Object/txt-fullname'), name)
 
-		WebUI.setText(findTestObject('Element Repository/Text Box Object/txt-email'), email)
+		WebUI.setText(findTestObject('Elements Repository/Text Box Object/txt-email'), email)
 
-		WebUI.setText(findTestObject('Element Repository/Text Box Object/txt-current-address'), currentAddress)
+		WebUI.setText(findTestObject('Elements Repository/Text Box Object/txt-current-address'), currentAddress)
 
-		WebUI.setText(findTestObject('Element Repository/Text Box Object/txt-permanent-address'), permanentAddress)
+		WebUI.setText(findTestObject('Elements Repository/Text Box Object/txt-permanent-address'), permanentAddress)
 	}
 
 	@Keyword
 	def assertTextBoxForm() {
 
-		WebUI.verifyElementText(findTestObject('Element Repository/Text Box Object/check-output-by-param', [('param') : 'name']), 'Name:'+name)
+		WebUI.verifyElementText(findTestObject('Elements Repository/Text Box Object/check-output-by-param', [('param') : 'name']), 'Name:'+name)
 
-		WebUI.verifyElementText(findTestObject('Element Repository/Text Box Object/check-output-by-param', [('param') : 'email']), 'Email:'+email)
+		WebUI.verifyElementText(findTestObject('Elements Repository/Text Box Object/check-output-by-param', [('param') : 'email']), 'Email:'+email)
 
-		WebUI.verifyElementText(findTestObject('Element Repository/Text Box Object/check-output-by-param', [('param') : 'currentAddress']),
+		WebUI.verifyElementText(findTestObject('Elements Repository/Text Box Object/check-output-by-param', [('param') : 'currentAddress']),
 		'Current Address :'+currentAddress)
 
-		WebUI.verifyElementText(findTestObject('Element Repository/Text Box Object/check-output-by-param', [('param') : 'permanentAddress']),
+		WebUI.verifyElementText(findTestObject('Elements Repository/Text Box Object/check-output-by-param', [('param') : 'permanentAddress']),
 		'Permananet Address :'+permanentAddress)
 	}
 }

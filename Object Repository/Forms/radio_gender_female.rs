@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_gender_female</name>
+   <tag></tag>
+   <elementGuidId>7bd193a4-5a83-4211-b045-13d8b1959a7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@for=&quot;gender-radio-2&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>gender-radio-2</value>
+      <webElementGuid>d8ad0a7f-12e2-4486-b0de-958c8e5a171c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@for=&quot;gender-radio-2&quot;]</value>
+      <webElementGuid>ac1b9000-dc9b-48ec-8d7d-4e306f9c88e6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

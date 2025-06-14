@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>choose_state</name>
+   <tag></tag>
+   <elementGuidId>bc7f64df-086c-4961-98eb-91a5d976488f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;state&quot;]//*[text()=&quot;NCR&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;state&quot;]//*[text()=&quot;NCR&quot;]</value>
+      <webElementGuid>04e5ea6e-06d9-48ca-b6de-47b246516fb8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

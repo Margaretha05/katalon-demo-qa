@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>choose_city</name>
+   <tag></tag>
+   <elementGuidId>e73220b4-c325-4d3a-810c-ae95ea6fac6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;city&quot;]//*[text()=&quot;Delhi&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;city&quot;]//*[text()=&quot;Delhi&quot;]</value>
+      <webElementGuid>23b32c61-6c6f-4879-b7ac-0ceafa43b663</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

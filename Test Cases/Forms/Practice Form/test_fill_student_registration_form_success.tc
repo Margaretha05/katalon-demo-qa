@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_fill_student_registration_form_success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cca8c91f-7561-4e94-b85a-db26ea1e7244</testCaseGuid>
+</TestCaseEntity>

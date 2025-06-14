@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_hobby_sports</name>
+   <tag></tag>
+   <elementGuidId>06c633e3-f806-4a2d-a9f4-ac38200a8b42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@for=&quot;hobbies-checkbox-1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>hobbies-checkbox-1</value>
+      <webElementGuid>f07a85d7-e72e-4745-9058-576c38b20545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@for=&quot;hobbies-checkbox-1&quot;]</value>
+      <webElementGuid>af4d268c-e102-4316-bdf9-c262baa08a57</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

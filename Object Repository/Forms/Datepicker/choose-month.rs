@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>choose-month</name>
+   <tag></tag>
+   <elementGuidId>e8fb6c1f-4dbb-4f8a-96f4-1b642770851c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@class=&quot;react-datepicker__month-select&quot;]/option[@value=&quot;2&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select[@class=&quot;react-datepicker__month-select&quot;]/option[@value=&quot;2&quot;]</value>
+      <webElementGuid>303efef9-a651-4f9d-81ec-937f9c3bf685</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
