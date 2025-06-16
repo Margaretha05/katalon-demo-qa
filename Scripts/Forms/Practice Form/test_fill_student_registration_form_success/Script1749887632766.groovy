@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://demoqa.com/automation-practice-form')
 
+WebUI.maximizeWindow()
+
 WebUI.verifyElementText(findTestObject('General-Object/txt-h1-judul'), 'Practice Form')
 
 WebUI.setText(findTestObject('Forms/txt_first_name'), 'Margaretta')
@@ -76,4 +78,10 @@ WebUI.click(findTestObject('Forms/btn_submit'))
 WebUI.verifyElementVisible(findTestObject('Forms/modal_success_submission'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Forms/modal_success_submission'), 'Thanks for submitting the form')
+
+WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.clickOffset(findTestObject('Forms/modal_success_submission'), -200, 0)
+
+WebUI.closeBrowser()
 

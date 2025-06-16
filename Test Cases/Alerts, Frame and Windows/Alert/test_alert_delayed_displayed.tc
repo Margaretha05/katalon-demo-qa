@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_alert_delayed_displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00fb8b32-a3e0-4208-980b-2c603b7a78a0</testCaseGuid>
+</TestCaseEntity>

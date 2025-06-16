@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_close</name>
+   <tag></tag>
+   <elementGuidId>d5275295-c57e-4c07-ae25-75004e9cd55a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@aria-hidden=&quot;true&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@aria-hidden=&quot;true&quot;]</value>
+      <webElementGuid>c0e74f9c-57f1-48b3-a233-1cad24822159</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

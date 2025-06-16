@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_alert_confirm_displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>15d9535f-32f2-4cfd-8bbe-27d7ac95e03e</testCaseGuid>
+</TestCaseEntity>

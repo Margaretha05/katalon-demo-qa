@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_open_large_modal_displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2fef3e55-96a9-441a-80c3-273077ea2ab2</testCaseGuid>
+</TestCaseEntity>

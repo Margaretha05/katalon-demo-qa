@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_close_large_modal_success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c849b3ad-3877-4f8d-b194-9d2046932bc9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi bahwa small modal muncul setelah klik tombol &quot;Small modal&quot;</description>
+   <name>test_open_small_modal_displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8720c0ca-364b-4e37-8b09-cadace5bb09c</testCaseGuid>
+</TestCaseEntity>
