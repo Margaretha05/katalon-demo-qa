@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_login_click_new_user_button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>abf0d4d5-b7b0-4908-96a4-afbe466d1ec6</testCaseGuid>
+</TestCaseEntity>

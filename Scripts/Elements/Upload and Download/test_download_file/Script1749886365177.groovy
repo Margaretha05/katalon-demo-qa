@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://demoqa.com/upload-download')
 
+WebUI.maximizeWindow()
+
 WebUI.verifyElementText(findTestObject('General-Object/txt-h1-judul'), 'Upload and Download')
 
 WebUI.click(findTestObject('Elements Repository/Upload dan Download Object/btn_download'))

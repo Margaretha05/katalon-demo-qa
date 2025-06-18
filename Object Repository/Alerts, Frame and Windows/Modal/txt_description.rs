@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_description</name>
+   <tag></tag>
+   <elementGuidId>4da152a4-8de8-4987-b911-bd97886e39dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;modalWrapper&quot;]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;modalWrapper&quot;]/div/div</value>
+      <webElementGuid>2ad941c3-582e-41d6-a549-c02eb472ec19</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

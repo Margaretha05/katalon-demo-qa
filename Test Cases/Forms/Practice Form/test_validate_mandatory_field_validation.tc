@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_validate_mandatory_field_validation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>309ed483-6f5e-4f79-ab46-a77bbe7efba3</testCaseGuid>
+</TestCaseEntity>

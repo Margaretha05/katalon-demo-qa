@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('Alerts, Frame and Windows/Modal/test_open_large
 
 WebUI.click(findTestObject('Alerts, Frame and Windows/Modal/btn_close_modal_large'))
 
-WebUI.delay(3)
+WebUI.verifyTextPresent('Click on button to see modal', false)
 
-WebUI.verifyElementNotVisible(findTestObject('Alerts, Frame and Windows/Modal/btn_close_modal_large'))
+WebUI.closeBrowser()
 

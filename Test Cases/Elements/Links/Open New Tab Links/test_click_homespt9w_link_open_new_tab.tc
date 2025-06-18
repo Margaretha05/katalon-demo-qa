@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_click_homespt9w_link_open_new_tab</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4b46fac-2feb-4858-8ada-a4c53aa8c892</testCaseGuid>
+</TestCaseEntity>

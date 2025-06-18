@@ -17,9 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://demoqa.com/elements')
-
-WebUI.click(findTestObject('Elements Repository/Text Box Object/txt-textbox'))
+WebUI.openBrowser('https://demoqa.com/text-box')
 
 WebUI.verifyElementText(findTestObject('General-Object/txt-h1-judul'), 'Text Box')
 

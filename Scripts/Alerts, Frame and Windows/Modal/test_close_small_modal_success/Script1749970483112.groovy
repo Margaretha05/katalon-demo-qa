@@ -21,3 +21,5 @@ WebUI.callTestCase(findTestCase('Alerts, Frame and Windows/Modal/test_open_small
 
 WebUI.click(findTestObject('Alerts, Frame and Windows/Modal/btn_close_modal_small'))
 
+WebUI.closeBrowser()
+

@@ -32,3 +32,5 @@ String alertText = WebUI.getAlertText()
 // a === '5' //=== dia membandingkan tipe datanya, disini tipe data a number dan 5 adalah number maka akan false
 assert alertText == 'You clicked a button'
 
+WebUI.closeBrowser()
+

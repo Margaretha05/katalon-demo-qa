@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_check_box_home</name>
+   <tag></tag>
+   <elementGuidId>ef44fc56-855a-4bb9-b91d-28429ac042e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@for=&quot;tree-node-home&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@for=&quot;tree-node-home&quot;]</value>
+      <webElementGuid>f70a5c62-820d-4c32-b90e-432435377b8a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -38,3 +38,5 @@ WebUI.acceptAlert()
 
 WebUI.verifyElementText(findTestObject('Alerts, Frame and Windows/Alerts/txt_alert_prompt_result'), 'You entered Margaretta')
 
+WebUI.closeBrowser()
+

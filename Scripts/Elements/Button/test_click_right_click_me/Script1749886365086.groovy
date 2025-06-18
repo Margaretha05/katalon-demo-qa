@@ -19,9 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://demoqa.com/buttons')
 
+WebUI.maximizeWindow()
+
 WebUI.verifyElementText(findTestObject('General-Object/txt-h1-judul'), 'Buttons')
 
 WebUI.rightClick(findTestObject('Elements Repository/Button Object/btn_right_click_me'))
 
 WebUI.verifyElementText(findTestObject('Elements Repository/Button Object/txt_right_click_result'), 'You have done a right click')
+
+WebUI.closeBrowser()
 

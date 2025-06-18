@@ -38,3 +38,5 @@ WebUI.acceptAlert()
 
 WebUI.verifyElementText(findTestObject('Alerts, Frame and Windows/Alerts/txt_alert_confirm_result'), 'You selected Ok')
 
+WebUI.closeBrowser()
+

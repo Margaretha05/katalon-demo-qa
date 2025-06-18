@@ -32,3 +32,5 @@ String alertText = WebUI.getAlertText()
 // a === '5' //=== dia membandingkan tipe datanya, disini tipe data a number dan 5 adalah number maka akan false
 assert alertText == 'This alert appeared after 5 seconds'
 
+WebUI.closeBrowser()
+

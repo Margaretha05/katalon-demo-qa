@@ -19,9 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://demoqa.com/buttons')
 
+WebUI.maximizeWindow()
+
 WebUI.verifyElementText(findTestObject('General-Object/txt-h1-judul'), 'Buttons')
+
+WebUI.scrollToElement(findTestObject('Elements Repository/Button Object/btn_double_click_me'), 0)
 
 WebUI.doubleClick(findTestObject('Elements Repository/Button Object/btn_double_click_me'))
 
 WebUI.verifyElementText(findTestObject('Elements Repository/Button Object/txt_double_click_result'), 'You have done a double click')
+
+WebUI.closeBrowser()
 
